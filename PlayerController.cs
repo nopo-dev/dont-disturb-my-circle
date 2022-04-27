@@ -2,6 +2,8 @@ using UnityEngine;
 using System.Collections;
 using BulletFury;
 
+// control player input, movement, and firing
+// manage player stats such as hp, damage, fire rate, and spread
 public class PlayerController : MonoBehaviour
 {
     // serialized script components
