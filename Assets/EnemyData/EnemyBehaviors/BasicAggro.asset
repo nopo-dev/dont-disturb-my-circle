@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9f2fe0cbafcac1419007c6204ffde77, type: 3}
+  m_Name: BasicAggro
+  m_EditorClassIdentifier: 
+  _behaviorPhases:
+  - _phaseLength: 0.5
+    _loopPhase: 0
+    _speed: 10
+    _angularVelocity: 0
+    _invulnerable: 1
+    _aggro: 0
+    _aimAtTarget: 0
+    _moveRelativeToTarget: 0
+    _aimRotationSpeed: 0
+    _lastPhase: 0
+  - _phaseLength: 5
+    _loopPhase: 1
+    _speed: 10
+    _angularVelocity: 0
+    _invulnerable: 0
+    _aggro: 1
+    _aimAtTarget: 1
+    _moveRelativeToTarget: 1
+    _aimRotationSpeed: 0
+    _lastPhase: 0

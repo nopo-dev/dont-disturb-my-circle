@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Stage
+  - BasicAggroGreenSlime
+  - BasicAggroRedSlime
+  - BasicAggroBrownSlime
+  - BasicAggroGraySlime
+  - BasicAggroBlueSlime
+  - BasicUGreenSlime
+  - GreenSlimeRight
+  - GreenSlimeLeft
+  - RedSlimeLeft
+  - RedSlimeRight
+  - BigSlime
+  - PlayerSpecial
+  - GraySlimeRight
+  - GraySlimeLeft
+  - BrownSlimeBaseOther
+  - PinkSlimeBoss
+  - BlackSlimeBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Stage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stage
+    uniqueID: 1990251583
+    locked: 0
+  - name: MagicCircle
+    uniqueID: 282647649
+    locked: 0
+  - name: Enemy
+    uniqueID: 174625683
+    locked: 0
+  - name: Player
+    uniqueID: 2181403775
+    locked: 0
+  - name: UI
+    uniqueID: 1303548635
+    locked: 0
